@@ -1,0 +1,17 @@
+2026-04-15 11:00:02 - bot.orders - INFO - Placing MARKET order: BTCUSDT BUY Qty=0.01
+2026-04-15 11:00:04 - bot.orders - INFO - Placing LIMIT order: ETHUSDT SELL Qty=0.5 Price=3000.0 TIF=GTC
+2026-04-15 11:00:05 - bot.orders - INFO - Placing STOP-LIMIT order: BTCUSDT BUY Qty=0.01 Price=60000.0 StopPrice=59000.0 TIF=GTC
+2026-04-15 11:00:31 - bot.client - INFO - 🔧 DRY-RUN mode: No actual API connection will be made.
+2026-04-15 11:00:31 - bot.client - INFO - 🔧 DRY-RUN: Skipping connection test.
+2026-04-15 11:00:54 - bot.client - INFO - 🔧 DRY-RUN mode: No actual API connection will be made.
+2026-04-15 11:00:54 - bot.client - INFO - 🔧 DRY-RUN: Skipping connection test.
+2026-04-15 11:00:54 - bot.orders - INFO - Placing MARKET order: BTCUSDT BUY Qty=0.01
+2026-04-15 11:00:54 - bot.orders - INFO - 🔧 DRY-RUN: Simulating MARKET order.
+2026-04-15 11:01:05 - bot.client - INFO - 🔧 DRY-RUN mode: No actual API connection will be made.
+2026-04-15 11:01:05 - bot.client - INFO - 🔧 DRY-RUN: Skipping connection test.
+2026-04-15 11:01:05 - bot.orders - INFO - Placing LIMIT order: ETHUSDT SELL Qty=0.5 Price=3000.0 TIF=GTC
+2026-04-15 11:01:05 - bot.orders - INFO - 🔧 DRY-RUN: Simulating LIMIT order.
+2026-04-15 11:01:06 - bot.client - INFO - 🔧 DRY-RUN mode: No actual API connection will be made.
+2026-04-15 11:01:06 - bot.client - INFO - 🔧 DRY-RUN: Skipping connection test.
+2026-04-15 11:01:06 - bot.orders - INFO - Placing STOP-LIMIT order: BTCUSDT BUY Qty=0.01 Price=60000.0 StopPrice=59000.0 TIF=GTC
+2026-04-15 11:01:06 - bot.orders - INFO - 🔧 DRY-RUN: Simulating STOP-LIMIT order.
